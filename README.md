@@ -1,10 +1,10 @@
 # SalvadorAzcon
 # 💫 About Me:
-📚 I'm currently studying Computer Engineering at the Universidad Autónoma de Madrid while also actively participating in the 42 Madrid programming curriculum. Passionate about low/mid-level development, algorithms, and continuous learning.
+📚 escribe algo....
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ignacio-pastor-crist%C3%B3bal-029615354/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saazcon/)
 
 
 # 💻 Tech Stack:
