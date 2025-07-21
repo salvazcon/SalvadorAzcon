@@ -41,5 +41,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvazcon&show_icons=true&theme=dark&locale=en&layout=compact" alt="salvazcon" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvazcon&show_icons=true&theme=dark&locale=en" alt="salvazcon" /></p>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvazcon&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=salvazcon&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+
