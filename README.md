@@ -43,6 +43,3 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvazcon&show_icons=true&theme=dark&locale=en&layout=compact" alt="salvazcon" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvazcon&show_icons=true&theme=dark&locale=en" alt="salvazcon" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salvazcon&limit=5&theme=dark&combine_all_yearly_contributions=true)
